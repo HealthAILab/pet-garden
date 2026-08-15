@@ -1,0 +1,12 @@
+# User-provided installer and inspection artifacts
+班级宠物园-安装包/
+.inspect-app/
+.inspect-installer/
+.reference-app/
+.npm-cache/
+
+# Local runtime data and OS files
+pet-garden-data/
+*.log
+Thumbs.db
+.DS_Store
