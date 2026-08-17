@@ -68,6 +68,7 @@
       count,
       reward,
       growth: reward,
+      memberId: member.id,
       note: $('#offlineNote').value.trim(),
       confirmedBy: '家长'
     });
