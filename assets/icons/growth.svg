@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8fd9a8"/>
+      <stop offset="1" stop-color="#4faa79"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffe38a"/>
+      <stop offset="1" stop-color="#f3a64f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="47" cy="16" r="7" fill="url(#sun)" stroke="#dc8f3d" stroke-width="2"/>
+  <path d="M47 4v4M47 24v4M35 16h4M55 16h4M39 8l3 3M52 21l3 3M55 8l-3 3" fill="none" stroke="#eda64b" stroke-linecap="round" stroke-width="3"/>
+  <path d="M31 54V31" fill="none" stroke="#438f68" stroke-linecap="round" stroke-width="5"/>
+  <path d="M31 35C16 35 10 27 11 17c12-2 21 4 20 18Z" fill="url(#leaf)" stroke="#36845e" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M32 40c14-1 20-8 20-18-11-2-20 4-20 18Z" fill="#70c990" stroke="#36845e" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M16 57h31" fill="none" stroke="#c78c55" stroke-linecap="round" stroke-width="5"/>
+</svg>
